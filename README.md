@@ -1,5 +1,7 @@
 # brexx-reference
-I compiled the online available BREXX Reference by Vassilis Vlachoudis to a CHM File
+I compiled the online available BREXX Reference by Vassilis Vlachoudis to a CHM File. Using the Languagehelp Plugin in Notepad++ this enables looking up REXX commands in an easy way.
+
+![Screenshot](Screenshot.png)
 
 ``
 
